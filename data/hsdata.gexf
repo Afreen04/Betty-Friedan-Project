@@ -43,14 +43,6 @@
         <viz:size value="4.0"></viz:size>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
-      
-      <node id="5" label="Student 1">
-        <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
-        </attvalues>
-        <viz:size value="28.685715"></viz:size>
-        <viz:color r="235" g="81" b="72"></viz:color>
-      </node>
       <node id="6" label="Student 2">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
@@ -99,7 +91,7 @@
       <edge id="4" source="4" target="3">
         <attvalues></attvalues>
       </edge>
-      <edge id="5" source="5" target="6" weight="8.0">
+      <edge id="5" source="4" target="6" weight="8.0">
         <attvalues></attvalues>
       </edge>
       <edge id="6" source="4" target="6" weight="10.0">

@@ -18,7 +18,7 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="-418.08344" y="446.8853" z="0.0"></viz:position>
+        
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="2" label="Alex">
@@ -26,7 +26,7 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="9.485714"></viz:size>
-        <viz:position x="-212.76357" y="245.29176" z="0.0"></viz:position>
+        
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="3" label="Martha">
@@ -34,7 +34,6 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="9.485714"></viz:size>
-        <viz:position x="-242.82404" y="235.26283" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="4" label="CountessDeLo">
@@ -42,7 +41,6 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="-379.30386" y="429.06424" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       
@@ -51,7 +49,6 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="28.685715"></viz:size>
-        <viz:position x="-266.82776" y="299.6904" z="0.0"></viz:position>
         <viz:color r="235" g="81" b="72"></viz:color>
       </node>
       <node id="6" label="Student 2">
@@ -59,7 +56,6 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="-418.08344" y="446.8853" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="7" label="Student 3">
@@ -67,7 +63,6 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="9.485714"></viz:size>
-        <viz:position x="-212.76357" y="245.29176" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="8" label="Student 3">
@@ -75,7 +70,6 @@
           <attvalue for="modularity_class" value="1"></attvalue>
         </attvalues>
         <viz:size value="9.485714"></viz:size>
-        <viz:position x="-242.82404" y="235.26283" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       <node id="9" label="Student 4">
@@ -83,7 +77,6 @@
           <attvalue for="modularity_class" value="0"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="-379.30386" y="429.06424" z="0.0"></viz:position>
         <viz:color r="236" g="81" b="72"></viz:color>
       </node>
       
